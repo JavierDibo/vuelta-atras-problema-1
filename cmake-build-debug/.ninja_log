@@ -1,0 +1,13 @@
+# ninja log v5
+1	47	7047605232987541	CMakeFiles/vuelta_atras_problema_1.dir/main.c.obj	cae33ee22166d682
+48	110	7047605233598087	vuelta_atras_problema_1.exe	4b20d0247c1c1f55
+2	108	7047605565563051	build.ninja	4947389cc5387e0c
+1	54	7047600251931315	CMakeFiles/vuelta_atras_problema_1.dir/ivector.c.obj	97cd3b5dbb80b256
+1	49	7047606232092257	CMakeFiles/vuelta_atras_problema_1.dir/main.c.obj	cae33ee22166d682
+49	112	7047606232702811	vuelta_atras_problema_1.exe	4b20d0247c1c1f55
+2	49	7047607569093059	CMakeFiles/vuelta_atras_problema_1.dir/main.c.obj	cae33ee22166d682
+49	113	7047607569723618	vuelta_atras_problema_1.exe	4b20d0247c1c1f55
+1	48	7047607644893681	CMakeFiles/vuelta_atras_problema_1.dir/main.c.obj	cae33ee22166d682
+48	111	7047607645504239	vuelta_atras_problema_1.exe	4b20d0247c1c1f55
+1	47	7047607922545011	CMakeFiles/vuelta_atras_problema_1.dir/main.c.obj	cae33ee22166d682
+47	110	7047607923155564	vuelta_atras_problema_1.exe	4b20d0247c1c1f55
